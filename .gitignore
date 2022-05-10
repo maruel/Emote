@@ -1,9 +1,11 @@
-build
-dist
-*.egg-info
-.venv
-venv
-*.snap
-
-# Editors
-.vim
+/bin
+/lib
+/lib64
+/share
+/pyvenv.cfg
+/build
+/dist
+/*.egg-info
+/.venv
+/venv
+/*.snap
